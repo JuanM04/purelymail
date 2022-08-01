@@ -1,0 +1,13 @@
+lockfileVersion: 5.4
+
+specifiers:
+  dedent: ^0.7.0
+
+dependencies:
+  dedent: 0.7.0
+
+packages:
+
+  /dedent/0.7.0:
+    resolution: {integrity: sha512-Q6fKUPqnAHAyhiUgFU7BUzLiv0kd8saH9al7tnu5Q/okj6dnupxyTgFIBjVzJATdfIAm9NAsvXNzjaKa+bxVyA==}
+    dev: false

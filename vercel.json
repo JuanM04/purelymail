@@ -1,0 +1,16 @@
+{
+  "rewrites": [
+    {
+      "source": "/mail/config-v1.1.xml",
+      "destination": "/api/autoconfig"
+    },
+    {
+      "source": "/autodiscover/autodiscover.xml",
+      "destination": "/api/autodiscover"
+    },
+    {
+      "source": "/Autodiscover/Autodiscover.xml",
+      "destination": "/api/autodiscover"
+    }
+  ]
+}

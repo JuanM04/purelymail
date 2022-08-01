@@ -1,0 +1,6 @@
+{
+  "name": "autodiscover",
+  "dependencies": {
+    "dedent": "^0.7.0"
+  }
+}
